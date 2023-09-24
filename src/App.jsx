@@ -25,8 +25,8 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Hamza Mehmood",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
+  title: "Founder & Manager @DevCulture",
+  email: "hamza.mehmood@studentambassadors.com",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "satyanadella",
